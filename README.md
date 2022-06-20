@@ -1,6 +1,6 @@
-### Hello there 👋🏼
 
-<h1 align="center">Hi, I'm Joey 👋🏼</h1>
+
+<h1 align="center">Hi there, I'm Joey 👋🏼</h1>
 <h3 align="center">A creative full stack developer from Colorado</h3>
 
 - 🔭 I’m currently working on **"Community" - a mutual aid app**
