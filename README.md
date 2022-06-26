@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **"Community" - a mutual aid app**
 
-- 🌱 I’m currently learning **Ruby/Ruby on Rails**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **joey.maes@gmail.com**
 
